@@ -220,6 +220,7 @@ html {
     width: 100%;
 
     text-align: center;
+    /* margin: 0 auto; */
 }
 
 #slider .text-heading {
@@ -424,7 +425,6 @@ html {
 #footer {
     padding: 64px 16px;
     text-align: center;
-
 }
 
 #footer .socials-list {

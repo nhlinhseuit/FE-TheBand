@@ -204,7 +204,7 @@ html {
     padding-top: 50%;
     
     /* Cú pháp viết tắt: */
-    background: url('/assets/img/slider/slider1.jpg') top center / cover no-repeat;
+    background: url(https://www.w3schools.com/w3images/la.jpg) top center / cover no-repeat;
 }
 
 #slider .text-content {
